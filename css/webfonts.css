@@ -1,0 +1,53 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+/*
+------------------ FONT AWESOME --------------------------
+	font-family: 'FontAwesome'
+*//*
+******************************************************************************************/
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,400,700,800,900);
+/*
+----------------- RALEWAY LIGHT ---------------------
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+*/
+/*
+----------------- RALEWAY NORMAL --------------------
+	font-weight: 400;
+*/
+/*
+------------------ RALEWAY BOLD ---------------------
+	font-weight: 700;
+/*
+--------------- RALEWAY EXTRABOLD -------------------
+	font-weight: 800;
+*/
+/*
+--------------- RALEWAY ULTRABOLD -------------------
+	font-weight: 900;
+*/
+/*
+/****************************************************************************************/
+@import url(https://fonts.googleapis.com/css?family=Roboto:500,900);
+/*
+----------------- ROBOTO MEDIUM ---------------------
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+*/
+/*
+---------------- ROBOTO ULTRABOLD -------------------
+	font-weight: 900;
+*/
+/*
+/****************************************************************************************/
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+/*
+--------------- MONTSERRAT NORMAL ---------------
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+*/
+/*
+---------------- MONTSERRAT BOLD ----------------
+	font-weight: 900;
+*/
+/*
+/****************************************************************************************/
